@@ -1,0 +1,345 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "home_team": {
+        "id": 15,
+        "name": "Swansea City",
+        "short_name": "Swansea",
+        "tla": "SWA",
+        "crest": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=64&h=64&fit=crop&crop=center",
+        "country": "Wales",
+        "league": "Championship",
+        "founded": 1912
+      },
+      "away_team": {
+        "id": 16,
+        "name": "Cardiff City",
+        "short_name": "Cardiff",
+        "tla": "CAR",
+        "crest": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=64&h=64&fit=crop&crop=center",
+        "country": "Wales",
+        "league": "Championship",
+        "founded": 1899
+      },
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FINISHED",
+      "date": "2024-12-17T19:45:00Z",
+      "competition": "Championship",
+      "venue": "Liberty Stadium",
+      "referee": "Michael Oliver",
+      "minute": null,
+      "loaned_players": [
+        {
+          "player_id": 1001,
+          "name": "Charlie Patino",
+          "team": "Swansea City",
+          "is_starting": true,
+          "position": "Midfielder"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "home_team": {
+        "id": 9,
+        "name": "Leicester City",
+        "short_name": "Leicester",
+        "tla": "LEI",
+        "crest": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=64&h=64&fit=crop&crop=center",
+        "country": "England",
+        "league": "Championship",
+        "founded": 1884
+      },
+      "away_team": {
+        "id": 10,
+        "name": "Southampton",
+        "short_name": "Southampton",
+        "tla": "SOU",
+        "crest": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=64&h=64&fit=crop&crop=center",
+        "country": "England",
+        "league": "Championship",
+        "founded": 1885
+      },
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FINISHED",
+      "date": "2024-12-14T19:45:00Z",
+      "competition": "Championship",
+      "venue": "King Power Stadium",
+      "referee": "Anthony Taylor",
+      "minute": null,
+      "loaned_players": [
+        {
+          "player_id": 1004,
+          "name": "Cesare Casadei",
+          "team": "Leicester City",
+          "is_starting": true,
+          "position": "Midfielder"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "home_team": {
+        "id": 17,
+        "name": "Sevilla",
+        "short_name": "Sevilla",
+        "tla": "SEV",
+        "crest": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=64&h=64&fit=crop&crop=face",
+        "country": "Spain",
+        "league": "La Liga",
+        "founded": 1890
+      },
+      "away_team": {
+        "id": 18,
+        "name": "Real Betis",
+        "short_name": "Betis",
+        "tla": "BET",
+        "crest": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=64&h=64&fit=crop&crop=face",
+        "country": "Spain",
+        "league": "La Liga",
+        "founded": 1907
+      },
+      "home_score": 2,
+      "away_score": 0,
+      "status": "FINISHED",
+      "date": "2024-12-12T20:00:00Z",
+      "competition": "La Liga",
+      "venue": "Ramón Sánchez Pizjuán",
+      "referee": "Mateu Lahoz",
+      "minute": null,
+      "loaned_players": [
+        {
+          "player_id": 1007,
+          "name": "Hannibal Mejbri",
+          "team": "Sevilla",
+          "is_starting": true,
+          "position": "Midfielder"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "home_team": {
+        "id": 19,
+        "name": "Nantes",
+        "short_name": "Nantes",
+        "tla": "NAN",
+        "crest": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=64&h=64&fit=crop&crop=center",
+        "country": "France",
+        "league": "Ligue 1",
+        "founded": 1943
+      },
+      "away_team": {
+        "id": 20,
+        "name": "Lyon",
+        "short_name": "Lyon",
+        "tla": "LYO",
+        "crest": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=64&h=64&fit=crop&crop=face",
+        "country": "France",
+        "league": "Ligue 1",
+        "founded": 1950
+      },
+      "home_score": null,
+      "away_score": null,
+      "status": "SCHEDULED",
+      "date": "2024-12-21T19:00:00Z",
+      "competition": "Ligue 1",
+      "venue": "Stade de la Beaujoire",
+      "referee": "Clément Turpin",
+      "minute": null,
+      "loaned_players": [
+        {
+          "player_id": 1002,
+          "name": "Marquinhos",
+          "team": "Nantes",
+          "is_starting": null,
+          "position": "Forward"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "home_team": {
+        "id": 21,
+        "name": "Nottingham Forest",
+        "short_name": "Forest",
+        "tla": "NFO",
+        "crest": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=64&h=64&fit=crop&crop=face",
+        "country": "England",
+        "league": "Premier League",
+        "founded": 1865
+      },
+      "away_team": {
+        "id": 13,
+        "name": "Burnley",
+        "short_name": "Burnley",
+        "tla": "BUR",
+        "crest": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=64&h=64&fit=crop&crop=face",
+        "country": "England",
+        "league": "Premier League",
+        "founded": 1882
+      },
+      "home_score": null,
+      "away_score": null,
+      "status": "SCHEDULED",
+      "date": "2024-12-22T15:00:00Z",
+      "competition": "Premier League",
+      "venue": "City Ground",
+      "referee": "Paul Tierney",
+      "minute": null,
+      "loaned_players": [
+        {
+          "player_id": 1003,
+          "name": "Nuno Tavares",
+          "team": "Nottingham Forest",
+          "is_starting": null,
+          "position": "Defender"
+        },
+        {
+          "player_id": 1006,
+          "name": "David Datro Fofana",
+          "team": "Burnley",
+          "is_starting": null,
+          "position": "Forward"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "home_team": {
+        "id": 22,
+        "name": "Benfica",
+        "short_name": "Benfica",
+        "tla": "BEN",
+        "crest": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=64&h=64&fit=crop&crop=face",
+        "country": "Portugal",
+        "league": "Primeira Liga",
+        "founded": 1904
+      },
+      "away_team": {
+        "id": 23,
+        "name": "Porto",
+        "short_name": "Porto",
+        "tla": "POR",
+        "crest": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=64&h=64&fit=crop&crop=center",
+        "country": "Portugal",
+        "league": "Primeira Liga",
+        "founded": 1893
+      },
+      "home_score": null,
+      "away_score": null,
+      "status": "SCHEDULED",
+      "date": "2024-12-23T20:30:00Z",
+      "competition": "Primeira Liga",
+      "venue": "Estádio da Luz",
+      "referee": "Artur Soares Dias",
+      "minute": null,
+      "loaned_players": [
+        {
+          "player_id": 1008,
+          "name": "Alvaro Fernandez",
+          "team": "Benfica",
+          "is_starting": null,
+          "position": "Defender"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "home_team": {
+        "id": 12,
+        "name": "Sunderland",
+        "short_name": "Sunderland",
+        "tla": "SUN",
+        "crest": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=64&h=64&fit=crop&crop=face",
+        "country": "England",
+        "league": "Championship",
+        "founded": 1879
+      },
+      "away_team": {
+        "id": 11,
+        "name": "Ipswich Town",
+        "short_name": "Ipswich",
+        "tla": "IPS",
+        "crest": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=64&h=64&fit=crop&crop=face",
+        "country": "England",
+        "league": "Championship",
+        "founded": 1878
+      },
+      "home_score": null,
+      "away_score": null,
+      "status": "SCHEDULED",
+      "date": "2024-12-24T19:45:00Z",
+      "competition": "Championship",
+      "venue": "Stadium of Light",
+      "referee": "Darren England",
+      "minute": null,
+      "loaned_players": [
+        {
+          "player_id": 1009,
+          "name": "Amad Diallo",
+          "team": "Sunderland",
+          "is_starting": null,
+          "position": "Forward"
+        },
+        {
+          "player_id": 1018,
+          "name": "Dane Scarlett",
+          "team": "Ipswich Town",
+          "is_starting": null,
+          "position": "Forward"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "home_team": {
+        "id": 14,
+        "name": "Sheffield United",
+        "short_name": "Sheffield Utd",
+        "tla": "SHU",
+        "crest": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=64&h=64&fit=crop&crop=face",
+        "country": "England",
+        "league": "Premier League",
+        "founded": 1889
+      },
+      "away_team": {
+        "id": 24,
+        "name": "Mainz 05",
+        "short_name": "Mainz",
+        "tla": "MAI",
+        "crest": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=64&h=64&fit=crop&crop=face",
+        "country": "Germany",
+        "league": "Bundesliga",
+        "founded": 1905
+      },
+      "home_score": null,
+      "away_score": null,
+      "status": "SCHEDULED",
+      "date": "2024-12-25T15:00:00Z",
+      "competition": "Premier League",
+      "venue": "Bramall Lane",
+      "referee": "Stuart Attwell",
+      "minute": null,
+      "loaned_players": [
+        {
+          "player_id": 1010,
+          "name": "Facundo Pellistri",
+          "team": "Sheffield United",
+          "is_starting": null,
+          "position": "Forward"
+        },
+        {
+          "player_id": 1015,
+          "name": "Sepp van den Berg",
+          "team": "Mainz 05",
+          "is_starting": null,
+          "position": "Defender"
+        }
+      ]
+    }
+  ]
+}

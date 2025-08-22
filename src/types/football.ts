@@ -14,12 +14,13 @@ export interface Player {
   name: string;
   firstName?: string;
   lastName?: string;
-  dateOfBirth: string;
+  dateOfBirth?: string;
   nationality: string;
   position: string;
+  specificPosition?: string; // More specific position like RW, LW, CB, CM, ST, GK
   shirtNumber?: number;
-  lastUpdated: string;
-  photo?: string;
+  lastUpdated?: string;
+  photo?: string | null;
   teamId: number;
   teamName: string;
   isOnLoan: boolean;
@@ -32,14 +33,23 @@ export interface Match {
   id: number;
   homeTeam: Team;
   awayTeam: Team;
-  homeScore?: number;
-  awayScore?: number;
+  homeScore?: number | null;
+  awayScore?: number | null;
   status: 'SCHEDULED' | 'LIVE' | 'IN_PLAY' | 'PAUSED' | 'FINISHED' | 'POSTPONED' | 'SUSPENDED' | 'CANCELLED';
   date: string;
   competition: string;
   venue?: string;
   referee?: string;
-  minute?: number;
+  minute?: number | null;
+  loanedPlayers?: LoanedPlayer[];
+}
+
+export interface LoanedPlayer {
+  playerId: number;
+  name: string;
+  team: string;
+  isStarting: boolean | null; // true = starting, false = on bench, null = unknown
+  position: string;
 }
 
 export interface PlayerStats {
