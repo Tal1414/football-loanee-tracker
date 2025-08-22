@@ -67,6 +67,9 @@ const Dashboard: React.FC = () => {
 
     if (preferences.favoriteTeams.length > 0) {
       loadData();
+    } else {
+      // If no favorite teams, still set loading to false to show the team selection interface
+      setIsLoading(false);
     }
   }, [preferences.favoriteTeams]);
 
