@@ -24,13 +24,13 @@ const Header: React.FC = () => {
 
           {/* Navigation */}
           <nav className="flex items-center space-x-6">
-            <a
-              href="/"
-              className={`flex items-center px-4 py-2 rounded-xl font-semibold transition-all duration-200 shadow-none bg-gradient-to-br from-blue-600 via-purple-600 to-indigo-600 text-white shadow-xl`}
+            <Link
+              to="/"
+              className="flex items-center px-4 py-2 rounded-xl font-semibold transition-all duration-200 shadow-none bg-gradient-to-br from-blue-600 via-purple-600 to-indigo-600 text-white shadow-xl"
             >
               <Home className="w-5 h-5 mr-2" />
               Dashboard
-            </a>
+            </Link>
           </nav>
 
           {/* Mobile menu button */}

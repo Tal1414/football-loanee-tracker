@@ -5,7 +5,7 @@ import Dashboard from './components/Dashboard';
 
 const App: React.FC = () => {
   return (
-    <Router>
+    <Router basename="/football-loanee-tracker">
       <div className="min-h-screen bg-gray-50">
         <Header />
         <main>
