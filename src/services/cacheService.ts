@@ -123,7 +123,7 @@ export class CacheService {
   /**
    * Update match data TTL based on match status
    */
-  public updateMatchDataTTL(matchId: string, status: string): void {
+  public updateMatchDataTTL(_matchId: string, status: string): void {
     if (status === 'FINISHED') {
       // Finished matches can be cached longer
       this.config.matchData = 24 * 60 * 60 * 1000; // 1 day
@@ -142,7 +142,7 @@ export class CacheService {
   public forceRefresh(type: keyof CacheConfig): void {
     const keysToDelete: string[] = [];
     
-    this.cache.forEach((item, key) => {
+    this.cache.forEach((_item, key) => {
       if (key.startsWith(type)) {
         keysToDelete.push(key);
       }

@@ -52,9 +52,9 @@ export class MockDataService {
       teamId: player.team_id,
       teamName: player.team_name,
       isOnLoan: player.is_on_loan,
-      loanedFrom: player.loaned_from,
-      loanedTo: player.loaned_to,
-      loanEndDate: player.loan_end_date
+      loanedFrom: player.loaned_from || undefined,
+      loanedTo: player.loaned_to || undefined,
+      loanEndDate: player.loan_end_date || undefined
     }));
   }
 
@@ -97,7 +97,7 @@ export class MockDataService {
       },
       homeScore: match.home_score,
       awayScore: match.away_score,
-      status: match.status,
+      status: match.status as 'SCHEDULED' | 'LIVE' | 'IN_PLAY' | 'PAUSED' | 'FINISHED' | 'POSTPONED' | 'SUSPENDED' | 'CANCELLED',
       date: match.date,
       competition: match.competition,
       venue: match.venue,
@@ -150,27 +150,18 @@ export class MockDataService {
 
     // Generate realistic mock stats based on player position
     const baseStats = {
+      playerId: player.id,
       season: '2024/2025',
       competition: this.getTeamLeague(player.teamName),
+      team: player.teamName,
       appearances: Math.floor(Math.random() * 20) + 5,
-      minutes: Math.floor(Math.random() * 1800) + 300,
+      minutesPlayed: Math.floor(Math.random() * 1800) + 300,
       goals: 0,
       assists: 0,
-      cleanSheets: 0,
-      saves: 0,
-      passes: 0,
-      passAccuracy: 0,
-      tackles: 0,
-      interceptions: 0,
-      duels: 0,
-      duelsWon: 0,
-      dribbles: 0,
-      dribbleSuccess: 0,
-      shots: 0,
-      shotsOnTarget: 0,
       yellowCards: 0,
       redCards: 0,
-      rating: 0
+      cleanSheets: 0,
+      saves: 0
     };
 
     // Adjust stats based on position
@@ -178,44 +169,22 @@ export class MockDataService {
       case 'Forward':
         baseStats.goals = Math.floor(Math.random() * 15) + 2;
         baseStats.assists = Math.floor(Math.random() * 8) + 1;
-        baseStats.shots = Math.floor(Math.random() * 50) + 20;
-        baseStats.shotsOnTarget = Math.floor(baseStats.shots * 0.4);
-        baseStats.dribbles = Math.floor(Math.random() * 30) + 10;
-        baseStats.dribbleSuccess = Math.floor(Math.random() * 30) + 50;
-        baseStats.rating = 6.5 + (Math.random() * 1.5);
         break;
       
       case 'Midfielder':
         baseStats.goals = Math.floor(Math.random() * 8) + 1;
         baseStats.assists = Math.floor(Math.random() * 12) + 2;
-        baseStats.passes = Math.floor(Math.random() * 800) + 300;
-        baseStats.passAccuracy = Math.floor(Math.random() * 20) + 75;
-        baseStats.tackles = Math.floor(Math.random() * 40) + 15;
-        baseStats.interceptions = Math.floor(Math.random() * 30) + 10;
-        baseStats.duels = Math.floor(Math.random() * 60) + 20;
-        baseStats.duelsWon = Math.floor(baseStats.duels * 0.6);
-        baseStats.rating = 6.8 + (Math.random() * 1.2);
         break;
       
       case 'Defender':
         baseStats.goals = Math.floor(Math.random() * 3) + 1;
         baseStats.assists = Math.floor(Math.random() * 5) + 1;
         baseStats.cleanSheets = Math.floor(Math.random() * 8) + 2;
-        baseStats.tackles = Math.floor(Math.random() * 50) + 20;
-        baseStats.interceptions = Math.floor(Math.random() * 40) + 15;
-        baseStats.duels = Math.floor(Math.random() * 70) + 25;
-        baseStats.duelsWon = Math.floor(baseStats.duels * 0.65);
-        baseStats.passes = Math.floor(Math.random() * 600) + 200;
-        baseStats.passAccuracy = Math.floor(Math.random() * 15) + 80;
-        baseStats.rating = 6.7 + (Math.random() * 1.3);
         break;
       
       case 'Goalkeeper':
         baseStats.cleanSheets = Math.floor(Math.random() * 10) + 3;
         baseStats.saves = Math.floor(Math.random() * 80) + 30;
-        baseStats.passes = Math.floor(Math.random() * 400) + 150;
-        baseStats.passAccuracy = Math.floor(Math.random() * 20) + 70;
-        baseStats.rating = 6.6 + (Math.random() * 1.4);
         break;
     }
 

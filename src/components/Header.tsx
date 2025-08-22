@@ -1,18 +1,8 @@
 import React from 'react';
-import { Link, useLocation } from 'react-router-dom';
-import { Trophy, Users, BarChart3, Settings, Home, Star } from 'lucide-react';
+import { Link } from 'react-router-dom';
+import { Trophy, Home } from 'lucide-react';
 
 const Header: React.FC = () => {
-  const location = useLocation();
-
-  const navItems = [
-    { path: '/', label: 'Dashboard', icon: Home },
-    { path: '/teams', label: 'My Teams', icon: Star },
-    { path: '/players', label: 'Loanees', icon: Users },
-    { path: '/stats', label: 'Statistics', icon: BarChart3 },
-    { path: '/settings', label: 'Settings', icon: Settings },
-  ];
-
   return (
     <header className="bg-white/80 backdrop-blur-md shadow-xl border-b border-white/20 sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
