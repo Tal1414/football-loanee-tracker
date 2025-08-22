@@ -5,7 +5,7 @@
       "name": "Arsenal",
       "short_name": "Arsenal",
       "tla": "ARS",
-      "crest": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
       "country": "England",
       "league": "Premier League",
       "founded": 1886,
@@ -13,14 +13,14 @@
       "venue_capacity": 60704,
       "venue_city": "London",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Emirates_Stadium_from_above.jpg/1200px-Emirates_Stadium_from_above.jpg"
     },
     {
       "id": 2,
       "name": "Chelsea",
       "short_name": "Chelsea",
       "tla": "CHE",
-      "crest": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
       "country": "England",
       "league": "Premier League",
       "founded": 1905,
@@ -28,14 +28,14 @@
       "venue_capacity": 40341,
       "venue_city": "London",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Stamford_Bridge_%28London%29.jpg/1200px-Stamford_Bridge_%28London%29.jpg"
     },
     {
       "id": 3,
       "name": "Manchester United",
       "short_name": "Man United",
       "tla": "MUN",
-      "crest": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
       "country": "England",
       "league": "Premier League",
       "founded": 1878,
@@ -43,14 +43,14 @@
       "venue_capacity": 74140,
       "venue_city": "Manchester",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Old_Trafford_inside_20060726.jpg/1200px-Old_Trafford_inside_20060726.jpg"
     },
     {
       "id": 4,
       "name": "Manchester City",
       "short_name": "Man City",
       "tla": "MCI",
-      "crest": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
       "country": "England",
       "league": "Premier League",
       "founded": 1880,
@@ -58,14 +58,14 @@
       "venue_capacity": 53400,
       "venue_city": "Manchester",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Etihad_Stadium.jpg/1200px-Etihad_Stadium.jpg"
     },
     {
       "id": 5,
       "name": "Liverpool",
       "short_name": "Liverpool",
       "tla": "LIV",
-      "crest": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
       "country": "England",
       "league": "Premier League",
       "founded": 1892,
@@ -73,14 +73,14 @@
       "venue_capacity": 53394,
       "venue_city": "Liverpool",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Anfield_inside_20060726.jpg/1200px-Anfield_inside_20060726.jpg"
     },
     {
       "id": 6,
       "name": "Tottenham Hotspur",
       "short_name": "Tottenham",
       "tla": "TOT",
-      "crest": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg",
       "country": "England",
       "league": "Premier League",
       "founded": 1882,
@@ -88,14 +88,14 @@
       "venue_capacity": 62850,
       "venue_city": "London",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tottenham_Hotspur_Stadium.jpg/1200px-Tottenham_Hotspur_Stadium.jpg"
     },
     {
       "id": 7,
       "name": "Newcastle United",
       "short_name": "Newcastle",
       "tla": "NEW",
-      "crest": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/5/56/Newcastle_United_Logo.svg",
       "country": "England",
       "league": "Premier League",
       "founded": 1892,
@@ -103,14 +103,14 @@
       "venue_capacity": 52305,
       "venue_city": "Newcastle",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/St_James_Park_Newcastle.jpg/1200px-St_James_Park_Newcastle.jpg"
     },
     {
       "id": 8,
       "name": "Aston Villa",
       "short_name": "Aston Villa",
       "tla": "AVL",
-      "crest": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/9/9f/Aston_Villa_logo.svg",
       "country": "England",
       "league": "Premier League",
       "founded": 1874,
@@ -118,14 +118,14 @@
       "venue_capacity": 42785,
       "venue_city": "Birmingham",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Villa_Park.jpg/1200px-Villa_Park.jpg"
     },
     {
       "id": 9,
       "name": "Leicester City",
       "short_name": "Leicester",
       "tla": "LEI",
-      "crest": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/2/2d/Leicester_City_crest.svg",
       "country": "England",
       "league": "Championship",
       "founded": 1884,
@@ -133,14 +133,14 @@
       "venue_capacity": 32262,
       "venue_city": "Leicester",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/King_Power_Stadium.jpg/1200px-King_Power_Stadium.jpg"
     },
     {
       "id": 10,
       "name": "Southampton",
       "short_name": "Southampton",
       "tla": "SOU",
-      "crest": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/c/c9/FC_Southampton.svg",
       "country": "England",
       "league": "Championship",
       "founded": 1885,
@@ -148,14 +148,14 @@
       "venue_capacity": 32384,
       "venue_city": "Southampton",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/St_Marys_Stadium.jpg/1200px-St_Marys_Stadium.jpg"
     },
     {
       "id": 11,
       "name": "Ipswich Town",
       "short_name": "Ipswich",
       "tla": "IPS",
-      "crest": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/4/43/Ipswich_Town.svg",
       "country": "England",
       "league": "Championship",
       "founded": 1878,
@@ -163,14 +163,14 @@
       "venue_capacity": 29673,
       "venue_city": "Ipswich",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Portman_Road.jpg/1200px-Portman_Road.jpg"
     },
     {
       "id": 12,
       "name": "Sunderland",
       "short_name": "Sunderland",
       "tla": "SUN",
-      "crest": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/7/72/Sunderland_AFC_logo.svg",
       "country": "England",
       "league": "Championship",
       "founded": 1879,
@@ -178,14 +178,14 @@
       "venue_capacity": 49000,
       "venue_city": "Sunderland",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Stadium_of_Light.jpg/1200px-Stadium_of_Light.jpg"
     },
     {
       "id": 13,
       "name": "Burnley",
       "short_name": "Burnley",
       "tla": "BUR",
-      "crest": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/6/6d/Burnley_FC_Logo.svg",
       "country": "England",
       "league": "Premier League",
       "founded": 1882,
@@ -193,14 +193,14 @@
       "venue_capacity": 21944,
       "venue_city": "Burnley",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Turf_Moor.jpg/1200px-Turf_Moor.jpg"
     },
     {
       "id": 14,
       "name": "Sheffield United",
       "short_name": "Sheffield Utd",
       "tla": "SHU",
-      "crest": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/9/9c/Sheffield_United_FC_logo.svg",
       "country": "England",
       "league": "Premier League",
       "founded": 1889,
@@ -208,14 +208,14 @@
       "venue_capacity": 32702,
       "venue_city": "Sheffield",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bramall_Lane.jpg/1200px-Bramall_Lane.jpg"
     },
     {
       "id": 15,
       "name": "Swansea City",
       "short_name": "Swansea",
       "tla": "SWA",
-      "crest": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/8/8a/Swansea_City_AFC_logo.svg",
       "country": "Wales",
       "league": "Championship",
       "founded": 1912,
@@ -223,14 +223,14 @@
       "venue_capacity": 21088,
       "venue_city": "Swansea",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Liberty_Stadium.jpg/1200px-Liberty_Stadium.jpg"
     },
     {
       "id": 16,
       "name": "Cardiff City",
       "short_name": "Cardiff",
       "tla": "CAR",
-      "crest": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/3/3c/Cardiff_City_FC_logo.svg",
       "country": "Wales",
       "league": "Championship",
       "founded": 1899,
@@ -238,14 +238,14 @@
       "venue_capacity": 33280,
       "venue_city": "Cardiff",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cardiff_City_Stadium.jpg/1200px-Cardiff_City_Stadium.jpg"
     },
     {
       "id": 17,
       "name": "Sevilla",
       "short_name": "Sevilla",
       "tla": "SEV",
-      "crest": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/3/31/Sevilla_FC_logo.svg",
       "country": "Spain",
       "league": "La Liga",
       "founded": 1890,
@@ -253,14 +253,14 @@
       "venue_capacity": 43883,
       "venue_city": "Sevilla",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ramon_Sanchez_Pizjuan.jpg/1200px-Ramon_Sanchez_Pizjuan.jpg"
     },
     {
       "id": 18,
       "name": "Real Betis",
       "short_name": "Betis",
       "tla": "BET",
-      "crest": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/1/13/Real_Betis_logo.svg",
       "country": "Spain",
       "league": "La Liga",
       "founded": 1907,
@@ -268,14 +268,14 @@
       "venue_capacity": 60721,
       "venue_city": "Sevilla",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Benito_Villamarin.jpg/1200px-Benito_Villamarin.jpg"
     },
     {
       "id": 19,
       "name": "Nantes",
       "short_name": "Nantes",
       "tla": "NAN",
-      "crest": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/8/8a/FC_Nantes_logo.svg",
       "country": "France",
       "league": "Ligue 1",
       "founded": 1943,
@@ -283,14 +283,14 @@
       "venue_capacity": 35222,
       "venue_city": "Nantes",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Stade_de_la_Beaujoire.jpg/1200px-Stade_de_la_Beaujoire.jpg"
     },
     {
       "id": 20,
       "name": "Lyon",
       "short_name": "Lyon",
       "tla": "LYO",
-      "crest": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/7/76/Olympique_Lyonnais_logo.svg",
       "country": "France",
       "league": "Ligue 1",
       "founded": 1950,
@@ -298,14 +298,14 @@
       "venue_capacity": 59186,
       "venue_city": "Lyon",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Groupama_Stadium.jpg/1200px-Groupama_Stadium.jpg"
     },
     {
       "id": 21,
       "name": "Nottingham Forest",
       "short_name": "Forest",
       "tla": "NFO",
-      "crest": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/e/e5/Nottingham_Forest_logo.svg",
       "country": "England",
       "league": "Premier League",
       "founded": 1865,
@@ -313,14 +313,14 @@
       "venue_capacity": 30445,
       "venue_city": "Nottingham",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/City_Ground.jpg/1200px-City_Ground.jpg"
     },
     {
       "id": 22,
       "name": "Benfica",
       "short_name": "Benfica",
       "tla": "BEN",
-      "crest": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/a/a2/SL_Benfica_logo.svg",
       "country": "Portugal",
       "league": "Primeira Liga",
       "founded": 1904,
@@ -328,14 +328,14 @@
       "venue_capacity": 64642,
       "venue_city": "Lisbon",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Estadio_da_Luz.jpg/1200px-Estadio_da_Luz.jpg"
     },
     {
       "id": 23,
       "name": "Porto",
       "short_name": "Porto",
       "tla": "POR",
-      "crest": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/f/f1/FC_Porto.svg",
       "country": "Portugal",
       "league": "Primeira Liga",
       "founded": 1893,
@@ -343,14 +343,14 @@
       "venue_capacity": 50033,
       "venue_city": "Porto",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Estadio_do_Dragao.jpg/1200px-Estadio_do_Dragao.jpg"
     },
     {
       "id": 24,
       "name": "Mainz 05",
       "short_name": "Mainz",
       "tla": "MAI",
-      "crest": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=64&h=64&fit=crop&crop=center",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/8/8a/1._FSV_Mainz_05_logo.svg",
       "country": "Germany",
       "league": "Bundesliga",
       "founded": 1905,
@@ -358,7 +358,7 @@
       "venue_capacity": 34000,
       "venue_city": "Mainz",
       "venue_surface": "grass",
-      "venue_image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=64&h=64&fit=crop&crop=center"
+      "venue_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mewa_Arena.jpg/1200px-Mewa_Arena.jpg"
     }
   ]
 }

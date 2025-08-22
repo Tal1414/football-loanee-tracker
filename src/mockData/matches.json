@@ -7,7 +7,7 @@
         "name": "Swansea City",
         "short_name": "Swansea",
         "tla": "SWA",
-        "crest": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=64&h=64&fit=crop&crop=center",
+        "crest": "https://upload.wikimedia.org/wikipedia/en/8/8a/Swansea_City_AFC_logo.svg",
         "country": "Wales",
         "league": "Championship",
         "founded": 1912
@@ -17,7 +17,7 @@
         "name": "Cardiff City",
         "short_name": "Cardiff",
         "tla": "CAR",
-        "crest": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=64&h=64&fit=crop&crop=center",
+        "crest": "https://upload.wikimedia.org/wikipedia/en/3/3c/Cardiff_City_FC_logo.svg",
         "country": "Wales",
         "league": "Championship",
         "founded": 1899
@@ -47,7 +47,7 @@
         "name": "Leicester City",
         "short_name": "Leicester",
         "tla": "LEI",
-        "crest": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=64&h=64&fit=crop&crop=center",
+        "crest": "https://upload.wikimedia.org/wikipedia/en/2/2d/Leicester_City_crest.svg",
         "country": "England",
         "league": "Championship",
         "founded": 1884
@@ -57,7 +57,7 @@
         "name": "Southampton",
         "short_name": "Southampton",
         "tla": "SOU",
-        "crest": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=64&h=64&fit=crop&crop=center",
+        "crest": "https://upload.wikimedia.org/wikipedia/en/c/c9/FC_Southampton.svg",
         "country": "England",
         "league": "Championship",
         "founded": 1885
@@ -127,7 +127,7 @@
         "name": "Nantes",
         "short_name": "Nantes",
         "tla": "NAN",
-        "crest": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=64&h=64&fit=crop&crop=center",
+        "crest": "https://upload.wikimedia.org/wikipedia/en/8/8a/FC_Nantes_logo.svg",
         "country": "France",
         "league": "Ligue 1",
         "founded": 1943
@@ -224,7 +224,7 @@
         "name": "Porto",
         "short_name": "Porto",
         "tla": "POR",
-        "crest": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=64&h=64&fit=crop&crop=center",
+        "crest": "https://upload.wikimedia.org/wikipedia/en/f/f1/FC_Porto.svg",
         "country": "Portugal",
         "league": "Primeira Liga",
         "founded": 1893
